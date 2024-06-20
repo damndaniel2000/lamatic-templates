@@ -1,1 +1,0 @@
-{"nodes":[{"id":"1","position":{"x":161,"y":145},"data":{"label":"1"},"width":150,"height":40,"selected":true,"positionAbsolute":{"x":161,"y":145},"dragging":false},{"id":"2","position":{"x":153,"y":338},"data":{"label":"2"},"width":150,"height":40,"selected":false,"positionAbsolute":{"x":153,"y":338},"dragging":false}],"edges":[{"id":"e1-2","source":"1","target":"2"}]}
